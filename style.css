@@ -1,0 +1,32 @@
+.bg {
+	background-color: #11172A;
+}
+
+.text, p, td, ul, label{
+	color: #DFE5EC;
+}
+
+.accent, th, h2{
+	color: #599692;
+}
+
+table {
+	border: 1px solid #599692;
+	border-radius: 10px;
+  align-items: center;
+  width: 300;
+}
+
+h1, h3 {
+	text-align: center;
+}
+
+.circle{
+	width: 150px;
+	height: 150px;
+	background-color: #DFE5EC;
+	border: 3px solid black;
+	border-radius: 50%;
+	margin: 0 auto;
+	
+}
